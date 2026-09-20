@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+mlruns/
+mlartifacts/
+mlflow_server.log
+Xtrain.csv
+Xtest.csv
+ytrain.csv
+ytest.csv
+.ipynb_checkpoints/
